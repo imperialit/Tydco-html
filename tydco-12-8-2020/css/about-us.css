@@ -1,0 +1,393 @@
+#about-1 .container {
+    padding: 50px 100px;
+}
+#about-1 .container h1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    padding-bottom: 20px;
+    line-height: 50px;
+}
+#about-1 .container .col-md-6 p {
+    font-size: 16px;
+}
+#about-1 .container .col-md-6 img {
+    width: 440px;
+    height: 545px;
+}
+
+#about-2 .container {
+    padding: 50px 100px;   
+}
+#about-2 .container h1 {
+    font-size: 48px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+#about-2 .container p {
+    
+}
+
+#about-3 .container {
+    padding: 0px 100px 50px 100px;   
+/*    text-align: center;*/
+}
+#about-3 .container h1 {
+    font-size: 48px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+#about-3 .container p {
+    
+}
+
+
+
+section#video {
+    padding: 80px 0;
+    background-color: #FCFCFC;
+}
+.embed-responsive {
+    position: relative;
+    display: block;
+    width: 60% !important;
+    padding: 0;
+    overflow: hidden;
+    margin: auto;
+}
+#video .full-width-container .container h1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+#video .full-width-container .container a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    background-color: #D19F68;
+    border-radius: 0px 0px 0px 0px;
+    padding: 17px 40px 17px 40px;
+    color: #fff;
+}
+#video .full-width-container .container .sign {
+    text-align: center;
+    padding-top: 35px;
+}
+#about-us {
+    background-image: url('../img/about-shape.png');
+    background-position: 661px 368px;
+    background-repeat: no-repeat;
+    background-size: 572px auto;
+}
+#about-us .full-width-container .container.about .row .col-md-6 img {
+    width: 440px;
+    height: 545px;
+}
+#about-us .full-width-container .container.about .row .col-md-6.left-side {
+    text-align: right;
+}
+#about-us .full-width-container .container.about .row .col-md-6.right-side {
+    padding: 90px 100px 100px 30px;
+}
+#about-us .full-width-container .container.about .row .col-md-6 h1 {
+    text-align: left;
+    font-size: 48px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+#about-us .full-width-container .container.about .row .col-md-6 p {
+    font-size: 21px;
+    padding-bottom: 40px;
+    text-align: left;
+}
+#about-us .full-width-container .container.about .row .col-md-6 a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    background-color: #D19F68;
+    border-radius: 0px 0px 0px 0px;
+    padding: 17px 40px 17px 40px;
+    color: #fff;
+}
+#better .full-width-container .container h1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+#about-us .container.tydco h1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+#better .full-width-container .container p {
+    padding: 0 100px;
+    text-align: center;
+    font-size: 20px;
+}
+#better .full-width-container .container .sign {
+    text-align: center;
+    padding-top: 35px;
+}
+#better .full-width-container .container .sign a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    background-color: #D19F68;
+    border-radius: 0px 0px 0px 0px;
+    padding: 17px 40px 17px 40px;
+    color: #fff;
+}
+#about-us .container.about {
+    padding: 80px 0;
+}
+section#better {
+    padding: 60px 0;
+    background: #fcfcfc;
+}
+.parallax {
+  background-image: url("../img/pattern-1.png");
+  min-height: 600px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 80px;
+}
+
+#about-us .full-width-container.tydco .container h1 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+#about-us .full-width-container .container.tydco p {
+    padding: 0 20px;
+    text-align: center;
+    font-size: 20px;
+}
+#about-us .full-width-container .container.tydco .sign {
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 20px;
+}
+#about-us .full-width-container .container .sign a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    background-color: #D19F68;
+    border-radius: 0px 0px 0px 0px;
+    padding: 17px 40px 17px 40px;
+    color: #fff;
+}
+section#better .container {
+    padding: 20px 0;
+    background: #fcfcfc;
+}
+#about-us .container.tydco {
+    background: #fff;
+    max-width: 1000px;
+    padding: 50px 50px 50px 50px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.07);
+    
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side {
+    text-align: left;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side h1 {
+    text-align: left;
+    font-size: 48px;
+    font-weight: 400;
+    padding-bottom: 15px;
+}
+/*
+#about-us .full-width-container .container.help .row .col-md-6.left-side p {
+    padding: 0;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side p span {
+    text-align: left;
+    padding: 0;
+    line-height: 30px;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side p span.i {
+    color: #D19F68;
+    font-size: 21px;
+    padding-right: 10px;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side p span.last {
+    padding-bottom: 30px;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side {
+    padding: 20px 20px 100px 90px;
+}
+*/
+#about-us .full-width-container .container.help .row .col-md-6.left-side {
+    padding: 20px 40px 100px 140px;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side .elementor-widget-container ul {
+    list-style-type: none;
+    padding:0;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side .elementor-widget-container ul li {
+    line-height: 57px;
+    display: flex;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side .elementor-widget-container ul li .list-text {
+    align-self: center;
+    font-size: 20px;
+    line-height: 25px;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side .elementor-widget-container ul li .list-icon i {
+    color: #D19F68;
+    font-size: 21px;
+    padding-right: 10px;
+}
+#about-us .full-width-container .container .row .col-md-6.right-side {
+    padding: 0 0 0 30px;
+}
+#about-us .full-width-container .container .row .col-md-6.right-side img {
+    width: 440px;
+    height: 545px;
+}
+#about-us .full-width-container .bg-image {
+    padding: 80px 50px 30px 50px;
+    background-image: url('../img/about-shape.png');
+    background-position: 15% 86%;
+    background-repeat: no-repeat;
+}
+#about-us .full-width-container .container.help {
+    background-size: 572px auto;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    background-color: #D19F68;
+    border-radius: 0px 0px 0px 0px;
+    padding: 17px 40px 17px 40px;
+    color: #fff;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side .elementor-widget-container ul li:last-child {
+    padding-bottom: 20px;
+}
+
+/*#about-us .full-width-container .container.help .row col-md-6.right-side*/
+
+/* For iPad Screen */
+@media screen and (max-width: 991px) and (min-width: 768px) {
+ 
+#about-us .full-width-container .container.about .row .col-md-6.right-side {
+    padding: 30px 10px 100px 100px;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side {
+    padding: 0px 0px 10px 0px;
+}
+
+
+    
+}
+
+/* start header for mobile*/
+@media only screen and (max-device-width : 600px) {
+
+#about-us .full-width-container .container.about .row .col-md-6 img {
+    height: auto;
+    width: 100%;
+}
+.parallax {
+    padding: 10px;
+}
+#about-us .full-width-container .bg-image {
+    padding: 30px 10px 30px 10px;
+}
+#about-us .full-width-container .container .row .col-md-6.right-side img {
+    width: 100%;
+    height: auto;
+}
+#better .full-width-container .container p {
+    padding: 0 10px;
+    font-size: 15px;
+}
+#video .full-width-container .container h1 {
+    font-size: 34px;
+}
+#about-us .full-width-container .container.about .row .col-md-6.right-side {
+    padding: 50px 10px 20px 30px;
+    text-align: center;
+}
+#about-us .full-width-container .container.about .row .col-md-6 h1 {
+    text-align: center;
+    font-size: 34px;
+}
+#about-us .container.tydco h1 {
+    font-size: 34px;
+}
+#about-us .container.tydco {
+    padding: 50px 10px 50px 10px;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side {
+    padding: 20px 20px 50px 20px;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side h1 {
+    font-size: 34px;
+}
+#better .full-width-container .container h1 {
+    font-size: 34px;
+}
+#video .full-width-container .container a {
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+}
+section#video {
+    padding: 80px 0 50px 0;
+    background-color: #FCFCFC;
+}
+#about-us .full-width-container .container.about .row .col-md-6 p {
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+#about-us .full-width-container .container.about .row .col-md-6 a {
+    font-size: 14px;
+    padding: 10px 20px 10px 20px;
+}
+#about-us .full-width-container .container.tydco p {
+    padding: 0 10px;
+    font-size: 15px;
+}
+#about-us .full-width-container .container .sign a {
+    font-size: 14px;
+    padding: 10px 20px !important;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side .elementor-widget-container ul li .list-text {
+    font-size: 15px;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side .elementor-widget-container ul li {
+    line-height: 30px;
+}
+#about-us .full-width-container .container.help .row .col-md-6.left-side a {
+    font-size: 14px;
+    padding: 10px 20px;
+}
+ 
+#about-1 .container {
+    padding: 50px 10px;   
+}
+    
+ #about-2 .container {
+    padding: 50px 10px;   
+}   
+#about-3 .container {
+    padding: 0px 10px 50px 10px;
+}
+    
+    
+    
+    
+}
